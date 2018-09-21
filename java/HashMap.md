@@ -1,6 +1,6 @@
 # HashMap
 
-### 1 简介
+### 1 介绍
 
 HashMap继承自AbstractMap<K, V>抽象类，实现了Map<K, V>、Serializable、Cloneable接口。
 
@@ -43,7 +43,7 @@ int size() // 返回map里键值映射的数量
 Collection<V> values() // 返回map包含的值的Collection视图
 ```
 
-### 3 示例
+### 3 使用示例
 
 ```Java
 import java.util.HashMap;
