@@ -2,7 +2,7 @@
 
 ### Java
 
-1. HashMap实现原理
+1. [HashMap实现原理](https://github.com/hellowupeng/principle/blob/master/java/HashMap.md)
 2. ConcurrentHashMap实现原理
 3. 红黑树
 4. TCP实现原理
